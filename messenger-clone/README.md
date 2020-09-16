@@ -1,5 +1,9 @@
 # Messanger-Clone
 
+#### _Take a look:_
+
+![clone image](https://raw.githubusercontent.com/husain-amjhera/messanger-clone/master/messenger-clone/images/messanger-clone.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
